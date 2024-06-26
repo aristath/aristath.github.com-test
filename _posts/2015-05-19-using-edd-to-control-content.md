@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to control content access using Easy Digital Downloads"
-permalink: blog/edd-control-content
+permalink: /blog/edd-control-content
 categories:
     - Easy-Digital-Downloads
     - WordPress

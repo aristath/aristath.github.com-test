@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improvements coming to the next version of Kirki"
-permalink: blog/improvements-kirki-version-1.0.0
+permalink: /blog/improvements-kirki-version-1.0.0
 categories: WordPress
 ---
 

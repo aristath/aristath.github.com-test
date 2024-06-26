@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to change image quality in WordPress"
-permalink: blog/change-wordpress-image-quality
+permalink: /blog/change-wordpress-image-quality
 categories: WordPress
 ---
 

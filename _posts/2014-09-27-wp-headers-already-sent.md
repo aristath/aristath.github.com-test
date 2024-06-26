@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Headers already sent by issue"
-permalink: blog/wordpress-headers-already-sent-by
+permalink: /blog/wordpress-headers-already-sent-by
 categories:
     - General
     - WordPress

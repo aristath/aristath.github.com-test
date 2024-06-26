@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why you should use twig for WordPress"
-permalink: blog/using-twig-in-wordpress
+permalink: /blog/using-twig-in-wordpress
 categories: WordPress
 ---
 

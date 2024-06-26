@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tools for developing on WordPress"
-permalink: blog/wordpress-dev-tools
+permalink: /blog/wordpress-dev-tools
 categories:
     - WordPress
     - General

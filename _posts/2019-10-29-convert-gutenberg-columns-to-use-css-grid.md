@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using CSS Grid for Gutenberg Columns"
-permalink: "blog/converting-gutenberg-columns-to-use-css-grid"
+permalink: /blog/converting-gutenberg-columns-to-use-css-grid
 skip_from_archives: true
 categories:
   - WordPress

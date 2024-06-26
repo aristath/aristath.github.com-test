@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building WordPress themes using the Kirki Customizer"
-permalink: blog/build-wordpress-theme-using-kirki
+permalink: /blog/build-wordpress-theme-using-kirki
 categories:
     - Customizer
     - WordPress

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to hide PHP Warnings and Notices in WordPress"
-permalink: blog/wp-hide-php-errors
+permalink: /blog/wp-hide-php-errors
 categories:
     - WordPress
 ---

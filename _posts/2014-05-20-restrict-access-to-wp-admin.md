@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to restrict access to the WordPress Admin"
-permalink: blog/restrict-access-wordpress-dashboard
+permalink: /blog/restrict-access-wordpress-dashboard
 categories:
     - Administration
     - WordPress

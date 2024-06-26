@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kirki_Color: A PHP Color Calculations class"
-permalink: blog/php-color-manipulation-class
+permalink: /blog/php-color-manipulation-class
 categories:
     - PHP
 ---

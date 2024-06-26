@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hijacking the wp.customize set & get methods for settings"
-permalink: "wordpress/customizer/2019/05/11/hijacking-wp-customizer-set-get"
+permalink: /wordpress/customizer/2019/05/11/hijacking-wp-customizer-set-get
 categories:
   - WordPress
   - Customizer

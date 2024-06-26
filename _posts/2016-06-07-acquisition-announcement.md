@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Themes Acquisition from WPSatchel"
-permalink: "general/2016/06/07/acquisition-announcement"
+permalink: /general/2016/06/07/acquisition-announcement
 skip_from_archives: true
 categories: general
 ---

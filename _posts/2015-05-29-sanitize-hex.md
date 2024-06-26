@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sanitizing a hex color value in PHP"
-permalink: blog/php-sanitize-hex-color
+permalink: /blog/php-sanitize-hex-color
 categories:
     - PHP
 ---

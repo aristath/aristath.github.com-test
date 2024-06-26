@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modifying the WordPress Customizer"
-permalink: blog/modifying-wordpress-customizer
+permalink: /blog/modifying-wordpress-customizer
 categories:
     - Customizer
     - WordPress

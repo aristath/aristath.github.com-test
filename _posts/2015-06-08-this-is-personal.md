@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About people working on OpenSource projects"
-permalink: blog/this-is-who-we-are
+permalink: /blog/this-is-who-we-are
 categories: WordPress
 ---
 

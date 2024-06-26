@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why we switched from WPEngine to Pagely and how we did it"
-permalink: blog/wpengine-to-pagely
+permalink: /blog/wpengine-to-pagely
 categories:
   - WordPress
 ---

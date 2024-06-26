@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to change the width of the customizer"
-permalink: blog/howto-change-customizer-width
+permalink: /blog/howto-change-customizer-width
 skip_from_archives: true
 categories:
   - WordPress

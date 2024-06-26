@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gutenberg Layout Problem"
-permalink: "blog/the-gutenberg-layout-problem"
+permalink: /blog/the-gutenberg-layout-problem
 categories:
   - WordPress
 comments_id: 11

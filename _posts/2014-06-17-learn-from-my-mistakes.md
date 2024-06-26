@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My mistakes and thoughts on building a WordPress shop "
-permalink: blog/mistakes-thoughts-building-wordpress-shop
+permalink: /blog/mistakes-thoughts-building-wordpress-shop
 categories: General
 ---
 

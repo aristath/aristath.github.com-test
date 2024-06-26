@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts on a Sustainable Web"
-permalink: "general/2019/05/17/sustainable-web-thoughts"
+permalink: /general/2019/05/17/sustainable-web-thoughts
 categories:
   - General
 comments_id: 2

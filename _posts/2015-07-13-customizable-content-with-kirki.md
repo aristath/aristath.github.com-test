@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to use the customizer to customize your theme template files"
-permalink: blog/customize-templates-using-kirki
+permalink: /blog/customize-templates-using-kirki
 categories:
   - WordPress
   - Customizer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Hidden Color Functions in WordPress"
-permalink: "blog/the-hidden-color-functions-in-wp"
+permalink: /blog/the-hidden-color-functions-in-wp
 categories:
   - JavaScript
   - WordPress
