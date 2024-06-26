@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Sanitizing a hex color value in PHP"
-permalink: /blog/php-sanitize-hex-color
-categories:
-    - PHP
 ---
 
 Working with WordPress themes it's not unusual to have to manipulate colors is PHP. This is the first of a series of posts on working with color in WordPress and PHP in general.

@@ -1,11 +1,7 @@
 ---
 layout: post
 title:  "How to change the width of the customizer"
-permalink: /blog/howto-change-customizer-width
 skip_from_archives: true
-categories:
-  - WordPress
-  - Customizer
 ---
 
 Depending on your use-case, you may want to change the width of your customizer, thus having more real-estate to handle your custom controls and content. You can do that by adding some custom CSS.

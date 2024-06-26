@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "How to change image quality in WordPress"
-permalink: /blog/change-wordpress-image-quality
-categories: WordPress
 ---
 
 WordPress by default compresses and optimizes images for web-use.

@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Dear WordPress: I heard a disturbing rumor"
-permalink: /wordpress/2019/06/05/dear-wordpress-i-heard-a-disturbing-rumor
 skip_from_archives: true
-categories:
-  - WordPress
 ---
 
 I wrote this post 2 weeks after WordCamp Greece and sat on it for another week. Why? Because I'm not the most communicative person. I lack the linguistic skills to properly convey some of my thoughts, especially when it comes to expressing myself in a language that is not my own. I know it will be easy to find a phrase, something there and twist it. I didn't post this sooner because I was afraid I'll get crussified for it. I hope this will not be the case and you will be able to see past any linguistic errors, I hope you'll be able to see the meaning of what I want to say instead of just the words.

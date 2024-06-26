@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "How to control content access using Easy Digital Downloads"
-permalink: /blog/edd-control-content
-categories:
-    - Easy-Digital-Downloads
-    - WordPress
 ---
 
 I recently needed to control access to a certain page on my site using [Easy Digital Downloads](https://easydigitaldownloads.com/?ref=98). My use-case was pretty specific: I have a support page on [PressCodes](https://press.codes/support/) where clients that have purchased a premium product can submit their question in a form.

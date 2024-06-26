@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Improvements coming to the next version of Kirki"
-permalink: /blog/improvements-kirki-version-1.0.0
-categories: WordPress
 ---
 
 Kirki started a couple years ago as a way to simplify the use of the customizer and make it easier for people to add custom controls to their themes without having to reinvent the wheel every time they needed to.

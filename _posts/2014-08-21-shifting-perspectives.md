@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Shift your perspective"
-permalink: /blog/shifting-perspectives
-categories: General
 ---
 
 As humans we grow. We change perspectives and see things differently.  

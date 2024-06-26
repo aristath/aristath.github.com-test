@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Kirki_Color: A PHP Color Calculations class"
-permalink: /blog/php-color-manipulation-class
-categories:
-    - PHP
 ---
 
 Yesterday I started working on a new series of posts about manipulating color in WordPress and PHP in general.

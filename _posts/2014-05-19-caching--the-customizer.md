@@ -1,11 +1,7 @@
 ---
 layout: post
 title:  "Caching the WordPress Customizer"
-permalink: /blog/caching-customizer-css
 skip_from_archives: true
-categories:
-    - Customizer
-    - WordPress
 ---
 
 A lot of themes use the WordPress customizer to generate additional CSS.

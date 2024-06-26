@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "Tools for developing on WordPress"
-permalink: /blog/wordpress-dev-tools
-categories:
-    - WordPress
-    - General
 ---
 
 There are many tools and everyone has their favorites.

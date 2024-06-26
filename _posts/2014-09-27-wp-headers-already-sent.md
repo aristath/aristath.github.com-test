@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "The Headers already sent by issue"
-permalink: /blog/wordpress-headers-already-sent-by
-categories:
-    - General
-    - WordPress
 ---
 
 On the support forums I work it's not uncommon to see an PHP error like this:

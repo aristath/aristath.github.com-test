@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Styling Links"
-permalink: /blog/styling-links
-categories:
-  - CSS
 comments_id: 6
 ---
 

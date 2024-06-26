@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Addictions"
-categories: general
-permalink: /general/2015/09/01/addictions
 skip_from_archives: true
 ---
 

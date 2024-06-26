@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Typography Scales with CSS Variables"
-permalink: /blog/typography-scales-with-css-vars
-categories:
-  - CSS
 comments_id: 8
 ---
 

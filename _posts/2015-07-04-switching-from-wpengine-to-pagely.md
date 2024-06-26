@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Why we switched from WPEngine to Pagely and how we did it"
-permalink: /blog/wpengine-to-pagely
-categories:
-  - WordPress
 ---
 
 While I was in WordCamp Europe last weekend I met a lot of the WPEngine staff, we talked, we laughed, I think they're a great bunch of people! However, while I was there the whole political & economic status of my home country - Greece - took a turn for the worst (actually it's a turn for the best if you look into the future of it, but short-term the outcome will be hard and difficult to bear).

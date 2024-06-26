@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "How to use the customizer to customize your theme template files"
-permalink: /blog/customize-templates-using-kirki
-categories:
-  - WordPress
-  - Customizer
 ---
 A while back I was experimenting with a new concept for a theme where users would be able to customize the way their templates are structured. They would be able to select what elements they wanted active and in what order these would be.  
 This was just an experiment but it was actually quite successful and you can see a demo of it here (skip to 1:28)

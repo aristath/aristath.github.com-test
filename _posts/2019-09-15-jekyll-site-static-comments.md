@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "A new comments system for my static Jekyll site"
-permalink: /blog/static-site-comments-using-github-issues-api
-categories:
-  - Jekyll
 comments_id: 5
 ---
 

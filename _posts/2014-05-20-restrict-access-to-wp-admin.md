@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "How to restrict access to the WordPress Admin"
-permalink: /blog/restrict-access-wordpress-dashboard
-categories:
-    - Administration
-    - WordPress
 ---
 
 Sometimes when you build a WordPress multisite installation that will be accessible by many people, you want to restrict access to certain areas of your site.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Greece the EU and a couple of personal points"
-permalink: /blog/greek-politics-and-the-eu
 skip_from_archives: true
 ---
 

@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "Building WordPress themes using the Kirki Customizer"
-permalink: /blog/build-wordpress-theme-using-kirki
-categories:
-    - Customizer
-    - WordPress
 ---
 
 Building your own WordPress theme can be daunting and pretty complicated.

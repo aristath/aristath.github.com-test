@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "How to only print styles for Gutenberg Blocks used on a page"
-permalink: /wordpress/2019/05/11/howto-print-used-blocks-styles
-categories:
-  - WordPress
 comments_id: 3
 ---
 

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Fluid Typography with CSS Variables"
-permalink: /blog/fluid-typography-css-vars
-categories:
-  - CSS
 comments_id: 7
 ---
 

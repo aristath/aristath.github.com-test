@@ -1,12 +1,6 @@
 ---
 layout: post
 title: "Introducing the inserter plugin"
-categories:
-  - WordPress
-  - REST-API
-  - Underscore.js
-  - Backbone.js
-permalink: /wordpress/introducing-wordpress-inserter-plugin
 ---
 
 Last week I released a new plugin on wordpress.org called [Inserter](https://wordpress.org/plugins/inserter). The name seemed appropriate, and you'll realize why as I explain below what it does.
